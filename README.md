@@ -1,5 +1,5 @@
 R text mining
 
-- test
+- notes: jiebaR
 
-- text
+- notes: tmcn
